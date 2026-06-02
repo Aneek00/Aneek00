@@ -1,5 +1,5 @@
 ## Aneek Sarkar
-**M.Sc. Statistics & Computing | Data Scientist and Analyst | Applied Statistical Decision Making & Quant Researcher | Applied AI Scientist**
+**M.Sc. Statistics & Computing | Data Scientist and Analyst | Statistical Decision Making & Quant Researcher | Applied AI Scientist**
 
 I specialize in building high-throughput data pipelines, autonomous multi-agent AI systems, and quantitative research engines. My target is to extract actionable signals from complex datasets through rigorous statistical modeling, quantitative research, and applied artificial intelligence by focusing on mathematical depth, deep vectorization, and executing large-scale data analysis.
 
