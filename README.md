@@ -7,7 +7,7 @@ I specialize in building high-throughput data pipelines, autonomous multi-agent 
 * **Quantitative Systems & Backtesting:** Developing backtesting automation for Alpha signals, state detection, and Sharpe ratio optimization. Processed 1M+ mutual fund NAV records using vectorized Python.
 * **Large-Scale Statistical Processing:** Architected pipelines handling 41GB / 15B+ Wikimedia pageviews efficiently using DuckDB.
 * **Applied AI & Decision Science:** Designing autonomous agentic business intelligence workflows driven by LLMs for automated executive reporting with proper failover mechanisms.
-* **Problem Solving and Decision Making:** Applying mathematical rigor to untangle complex logic and build systems from the ground up, including engineering an autograd engine entirely from scratch to map the mechanics of backpropagation.
+* **Problem Solving and Decision Making:** Solving large-scale analytical problems through structured reasoning, hypothesis-driven investigation, statistical validation, and efficient resource-aware system design while balancing accuracy, robustness, and business impact.
 
 ### 🔭 Current Focus
 * Mastering advanced time-series fundamentals, statistical concepts for business problems, business metrics understanding, and advanced AI modeling.
